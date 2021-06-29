@@ -2,14 +2,7 @@
 The number of zeros trailing in the factorial of any given natural number.
 
 
-##	Theorem
-
-Let $f(n)$ give the number of trailing zeros in the base ten representation of $n!$. Then,
-
-$f(n) = \sum_{i=1}^{k} [\frac{n}{5^i}]$
-
-where $ k = [log_5^n]$ .
-
+![alt text](https://github.com/hritikvalluvar/Factorial-Trailing-Zeros/blob/main/Theorem.png?raw=true)
 
 ## How to run
 
@@ -28,3 +21,4 @@ Compile main.cpp
 Run output file
 
 `./a.out`
+
